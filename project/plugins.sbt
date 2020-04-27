@@ -1,1 +1,1 @@
-addSbtPlugin("com.culpin.team" % "sbt-apidoc" % "0.5.4")
+addSbtPlugin("com.culpin.team" % "sbt-apidoc" % "0.5.5")
