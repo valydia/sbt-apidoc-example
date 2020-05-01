@@ -18,4 +18,5 @@ target/
 full/apidoc.json
 full/package-lock.json
 full/apidoc/
+full/_apidoc.js
 

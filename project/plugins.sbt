@@ -1,1 +1,1 @@
-addSbtPlugin("com.culpin.team" % "sbt-apidoc" % "0.5.5")
+addSbtPlugin("com.github.valydia" % "sbt-apidoc" % "0.5.6")
